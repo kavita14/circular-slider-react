@@ -40,5 +40,9 @@
     "babel-plugin-transform-react-jsx": "^6.24.1",
     "babel-preset-env": "^1.7.0",
     "webpack-cli": "^3.3.9"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/kavita14/circular-slider-react/issues"
+  },
+  "homepage": "https://github.com/kavita14/circular-slider-react#readme"
 }
