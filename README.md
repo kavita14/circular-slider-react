@@ -2,13 +2,13 @@
 
 ### Installation
 
-`npm install --save react-circular-slider`
+`npm install --save circular-slider-react`
 
 ### How To Use
 
 First import this component where you want to use it
 
-`import ReactCircularSlider from "react-circular-slider"`
+`import ReactCircularSlider from "circular-slider-react"`
 
 Then just renders it
 
@@ -32,7 +32,7 @@ Then just renders it
 
 ```
 import React, { Component } from "react";
-import ReactCircularSlider from "react-circular-slider";
+import ReactCircularSlider from "circular-slider-react";
 
 class App extends Component {
   render() {
