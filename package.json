@@ -1,0 +1,44 @@
+{
+  "name": "circular-slider-react",
+  "version": "1.0.0",
+  "description": "React Circular Slider Component to render full & half circular slider with differnet custom properties",
+  "main": "build/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kavita14/circular-slider-react.git"
+  },
+  "scripts": {
+    "start": "webpack --watch",
+    "build": "webpack"
+  },
+  "keywords": [
+    "react",
+    "cirular",
+    "slider",
+    "circular",
+    "slider",
+    "for",
+    "react",
+    "half",
+    "circle",
+    "slider",
+    "full",
+    "circle",
+    "slider"
+  ],
+  "author": "Kavita Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.10.2",
+    "webpack": "^4.41.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.0.0",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-env": "^1.7.0",
+    "webpack-cli": "^3.3.9"
+  }
+}
