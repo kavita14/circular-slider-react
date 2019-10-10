@@ -1,6 +1,6 @@
 {
   "name": "circular-slider-react",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "React Circular Slider Component to render full & half circular slider with differnet custom properties",
   "main": "build/index.js",
   "repository": {
@@ -30,6 +30,7 @@
   "license": "ISC",
   "dependencies": {
     "react": "^16.10.2",
+    "react-autobind": "^1.0.6",
     "webpack": "^4.41.0"
   },
   "devDependencies": {
