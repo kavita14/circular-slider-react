@@ -206,7 +206,7 @@ ReactCircularSlider.defaultProps = {
   value:0,
   size:500,
   knobRadius:20,
-  halfCircle:true,
+  halfCircle:false,
   radius:100,
   knobColor:'blue',
   circleColor:'black'
