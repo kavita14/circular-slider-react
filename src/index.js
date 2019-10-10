@@ -164,12 +164,6 @@ class ReactCircularSlider extends React.Component {
       }
     }
 
-  componentWillReceiveProps(nextProps) {
-          if (this.props.value !== nextProps.value && !this.state.isMouseMove) {
-              this.updateSliderFromProps(nextProps.value);
-          }
-      }
-
   render() {
         const { currentStepValue } = this.state;
         const { size, knobColor, circleColor } = this.props;
